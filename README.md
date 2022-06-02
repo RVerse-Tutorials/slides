@@ -1,6 +1,4 @@
-:spiral_calendar: January 25, 2022 
-
-# xaringan NMFS templates
+Cloned from [xaringan NMFS templates](https://github.com/nmfs-openscapes/xaringan-nmfs)
 
 ### To use
 

@@ -1,7 +1,7 @@
-title: xaringan NMFS
-description: Some templates for NMFS presentations with xaringan
+title: RVerse-Tutorial slides
+description: slide presentations
 logo: docs/static/xaringan-template.png
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal
 plugins:
   - jemoji

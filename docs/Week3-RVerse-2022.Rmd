@@ -223,6 +223,14 @@ Each project task lives on a card that gets edited as it moves. Team members can
 
 ---
 
+## Example: NWFSC OA Lab
+
+@Paul McElhany, NWFSC
+
+![](images/github-pb-oa-example.png)
+
+---
+
 ## Kanban with GitHub
 
 Let's Kanban with GitHub! 
